@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva](https://www.canva.com)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,23 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um e-book sobre o tema de renda fixa, seria um guia para as pessoas entenderem melhor todos os produtos de renda fixa que existem no brasil. O título deve ser bastante atrativo
+O público alvo será de pessoas que são iniciantes nesse tema
+me liste 5 variações de títulos                                                      |
+| conteúdo | façA um texto para ebook, com o foco em renda fixa no brasil para iniciantes, fazendo uma explicação de todos os investimentos em renda fixa existentes no país.
+
+[REGRAS]
+
+>faça textos claros e simples, pois será voltado para um público iniante
+>dedique um capítulo para cada tema
+>traga exemplos práticos para o leitor |
 
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
