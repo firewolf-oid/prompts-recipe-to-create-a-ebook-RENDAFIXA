@@ -41,13 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de um e-book sobre o tema de renda fixa, seria um guia para as pessoas entenderem melhor todos os produtos de renda fixa que existem no brasil. O título deve ser bastante atrativo. O público alvo será de pessoas que são iniciantes nesse tema,me liste 5 variações de títulos                                              |
-| conteúdo | façA um texto para ebook, com o foco em renda fixa no brasil para iniciantes, fazendo uma explicação de todos os investimentos em renda fixa existentes no país.
-
-[REGRAS]
-
->faça textos claros e simples, pois será voltado para um público iniante
->dedique um capítulo para cada tema
->traga exemplos práticos para o leitor |
+| conteúdo | façA um texto para ebook, com o foco em renda fixa no brasil para iniciantes, fazendo uma explicação de todos os investimentos em renda fixa existentes no país |
 
 
 
